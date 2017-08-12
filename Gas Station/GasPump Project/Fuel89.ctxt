@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Fuel89
+comment0.text=\n\ Write\ a\ description\ of\ class\ Unleaded\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=void\ setToWorkingState()
+comment2.params=
+comment2.target=double\ getPrice()
+comment3.params=
+comment3.target=boolean\ wasSelected()
+comment4.params=
+comment4.target=boolean\ isWorking()
+comment5.params=
+comment5.target=void\ displayMessage()
+comment6.params=
+comment6.target=void\ act()
+numComments=7

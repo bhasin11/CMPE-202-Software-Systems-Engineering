@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Composite
+comment1.params=c
+comment1.target=void\ addChild(Component)
+comment2.params=c
+comment2.target=void\ removeChild(Component)
+comment3.params=
+comment3.target=void\ startEvent()
+numComments=4

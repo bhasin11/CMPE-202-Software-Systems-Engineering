@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=GasPumpState
+comment1.params=
+comment1.target=GasPumpState()
+comment2.params=
+comment2.target=GasPumpState\ getInstance()
+comment3.params=o
+comment3.target=void\ register(Observer)
+comment4.params=o
+comment4.target=void\ unregister(Observer)
+comment5.params=state
+comment5.target=void\ setState(State)
+comment6.params=
+comment6.target=State\ getState()
+comment7.params=
+comment7.target=void\ notifyObservers()
+numComments=8

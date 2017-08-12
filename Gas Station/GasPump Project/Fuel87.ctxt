@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Fuel87
+comment0.text=\n\ Write\ a\ description\ of\ class\ Diesel\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=double\ getPrice()
+comment2.params=
+comment2.target=boolean\ wasSelected()
+comment3.params=
+comment3.target=void\ displayMessage()
+comment4.params=
+comment4.target=void\ act()
+numComments=5
